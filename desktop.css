@@ -46,6 +46,16 @@
 .about-me p{
     text-align: left;
 }
+/*about me ends*/
+/*card section*/
+.experience .card{
+    background-color: rgb(150, 226, 201);
+    border-radius: 5px;
+    padding: 10px;
+    transition: 0.3s;
+    height: 900px;
+
+}
 
 /*footer*/
 .footer-menu{
